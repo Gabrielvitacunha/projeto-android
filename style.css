@@ -20,10 +20,10 @@
 
 :root{
     --cor0:#c5ebd6;
-    --cor1:#17249a;
+    --cor1:#83e1ad;
     --cor2:#3ddc84;
     --cor3:#2fa866; 
-    --cor4:#08316e;
+    --cor4:#1a5c37;
     --cor5:#063d1e;
 
     --font-padrao:Arial, verdana, Helvetica, sans-serif;
@@ -63,6 +63,8 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
+    padding-bottom: 30px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 
 }
 nav{
